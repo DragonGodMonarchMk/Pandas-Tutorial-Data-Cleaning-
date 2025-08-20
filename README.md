@@ -46,6 +46,8 @@ The project consists of two key notebooks:
    cd pandas-data-cleaning
 pip install -r requirements.txt
 jupyter notebook
+
+
 📈 Learning Outcomes
 Learn how to use Pandas effectively for data wrangling.
 Gain experience with data cleaning techniques for preparing datasets.
@@ -53,7 +55,5 @@ Understand how to handle messy, real-world data before modeling.
 
 📌 Future Work
 Add tutorials on time series analysis using Pandas.
-
 Include performance optimization tips with large datasets.
-
 Extend project with case studies from Kaggle datasets.
